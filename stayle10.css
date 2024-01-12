@@ -1,0 +1,120 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(233, 233, 233);
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+}
+
+header nav {
+    width: 1250px;
+
+    margin: auto;
+}
+
+header nav ul {
+    display: inline-block;
+}
+
+header nav ul:nth-child(2) {
+    float: right;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul:nth-child(2) {
+    float: right;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: rgb(49, 49, 49);
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+header nav ul li a{
+    background-color: rgb(240, 240, 240);
+}
+
+
+#tepa{
+    width: 60px;
+    height: 60px;
+    padding: 20px 15px;
+    background-color: aqua;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bolder;
+    color: wheat;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.card__wrapper {
+    width: 1200px;
+    margin: 30px auto;
+   
+    
+}
+
+.card__wrapper .card{
+    width: 30%;
+    border-radius: 1px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgb(26, 32, 32);
+    
+}
+
+.card__wrapper .card img {
+    width: 100%;
+    margin: 10px;
+}
+
+.card__wrapper .card h2{
+    margin: 10px;
+}
+
+
+.men{
+    width: 70px;
+    height: 190px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
